@@ -5,7 +5,6 @@ Customer churn is a major business problem. Retaining existing customers is more
 # Technologies Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 # Workflow
 1. Data Cleaning
